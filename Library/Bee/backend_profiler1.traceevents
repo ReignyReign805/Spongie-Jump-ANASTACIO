@@ -1,0 +1,551 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1705347237112381, "dur":1603, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237113992, "dur":408, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1705347237114449, "dur":24, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1705347237114473, "dur":587, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1705347237115129, "dur":777, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237115906, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356129, "dur":209, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356338, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356347, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356349, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356356, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356358, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356366, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356368, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356374, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356376, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356385, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356387, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356393, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356395, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356402, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356404, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356410, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356420, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237356442, "dur":2029, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1705347237115583, "dur":366, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237115949, "dur":5649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237121599, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1705347237121766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237124341, "dur":3342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1705347237127733, "dur":1220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1705347237128957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237128966, "dur":2277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1705347237131286, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1705347237131422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237131746, "dur":6769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1705347237138569, "dur":1090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237139663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237139673, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237141000, "dur":634, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237141655, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237141664, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237143015, "dur":718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237143737, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237143747, "dur":1113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237144901, "dur":797, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237145702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237145711, "dur":1639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237147399, "dur":978, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237148381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237148389, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237150248, "dur":623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237150874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237150882, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237152452, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237152879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237152887, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237154486, "dur":539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237155075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237155083, "dur":2394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237157552, "dur":942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237158498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237158506, "dur":1891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237160449, "dur":837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237161290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237161325, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237163285, "dur":571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237163860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237163869, "dur":1442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237165352, "dur":1171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237166541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237166549, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237168271, "dur":1108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237169383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237169391, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237171156, "dur":497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237171657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237171668, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237173343, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237173634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237173640, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237175945, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237176267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237176277, "dur":1842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237178175, "dur":1965, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237180146, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237180157, "dur":1140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237181346, "dur":1257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237182606, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237182614, "dur":2006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237184675, "dur":8611, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237193290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237193300, "dur":1498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237194842, "dur":108741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237303588, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705347237303597, "dur":3119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705347237306752, "dur":49393, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237115498, "dur":435, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237115933, "dur":5643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237121584, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1705347237121841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237124523, "dur":3077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1705347237127652, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1705347237127770, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237128311, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1705347237130073, "dur":2931, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237133009, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237133566, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237135171, "dur":789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237135978, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237135987, "dur":3217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237139254, "dur":1001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237140259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237140267, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237142157, "dur":777, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237142938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237142946, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237144537, "dur":917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237145458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237145465, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237147541, "dur":866, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237148411, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237148420, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237150008, "dur":733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237150746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237150796, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237152419, "dur":728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237153151, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237153159, "dur":1712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237154919, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237155194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237155203, "dur":2055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237157303, "dur":663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237157970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237158002, "dur":1829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237159884, "dur":533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237160421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237160430, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237161912, "dur":910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237162827, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237162836, "dur":1314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237164202, "dur":693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237164899, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237164940, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237166588, "dur":753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237167345, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237167390, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237168916, "dur":1965, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237170885, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237170923, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237172829, "dur":406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237173239, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237173266, "dur":1950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237175269, "dur":309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237175581, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237175587, "dur":1223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237176855, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237177094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237177103, "dur":1523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237178669, "dur":2760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237181434, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237181445, "dur":2351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237183842, "dur":1995, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237185841, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237185854, "dur":1156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237187051, "dur":1913, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237188968, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237188976, "dur":1255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237190279, "dur":368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237190651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237190658, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237191962, "dur":9169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237201137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237201148, "dur":1829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705347237203016, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1705347237203058, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237203135, "dur":1112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1705347237204291, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1705347237204340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705347237204346, "dur":49768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1705347237254183, "dur":101966, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237115485, "dur":442, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237115928, "dur":5671, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237121600, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1705347237121757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237124464, "dur":3166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1705347237127683, "dur":982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705347237128669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237128678, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705347237130681, "dur":5467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1705347237136152, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237136212, "dur":2488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1705347237138772, "dur":1382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237140157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237140166, "dur":1592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237141806, "dur":576, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237142406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237142414, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237144259, "dur":2915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237147178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237147187, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237149506, "dur":519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237150029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237150038, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237151946, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237152352, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237152363, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237154450, "dur":605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237155059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237155068, "dur":2478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237157617, "dur":803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237158424, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237158433, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237161222, "dur":627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237161854, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237161862, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237163540, "dur":18860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237182404, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237182414, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237185039, "dur":81546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237266596, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705347237266612, "dur":2972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705347237269625, "dur":86513, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237115448, "dur":473, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237115921, "dur":5654, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237121584, "dur":928, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705347237122516, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237124277, "dur":2835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705347237127165, "dur":670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705347237127838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237127847, "dur":2279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1705347237130173, "dur":23463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237153640, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237153729, "dur":4821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237158592, "dur":532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237159128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237159137, "dur":1379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237160566, "dur":761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237161331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237161339, "dur":1800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237163199, "dur":2260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237165462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237165467, "dur":1756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237167275, "dur":1467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237168746, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237168756, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237170427, "dur":6667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237177104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237177112, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237178877, "dur":4798, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237183687, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237183700, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237185933, "dur":39309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237231916, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705347237231931, "dur":9770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705347237241756, "dur":114373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237115394, "dur":521, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237115917, "dur":5653, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237121584, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705347237121594, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237123025, "dur":423, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705347237123457, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705347237123512, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237123703, "dur":3619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1705347237127323, "dur":679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1705347237128005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237128013, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1705347237129887, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1705347237129992, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237129999, "dur":2278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1705347237132330, "dur":940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237133274, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237133487, "dur":1200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237134740, "dur":868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237135612, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237135622, "dur":1760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237137436, "dur":672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237138112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237138122, "dur":1395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237139546, "dur":683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237140233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237140241, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237142121, "dur":672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237142797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237142805, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237144378, "dur":926, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237145308, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237145316, "dur":2640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237147999, "dur":454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237148457, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237148465, "dur":1640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237150164, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237150634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237150642, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237151987, "dur":376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237152367, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237152407, "dur":3094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237155554, "dur":665, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237156223, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237156234, "dur":1440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237157850, "dur":596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237158450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237158458, "dur":2015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237160520, "dur":877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237161402, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237161409, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237163517, "dur":688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237164209, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237164217, "dur":1467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237165730, "dur":648, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237166382, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237166392, "dur":2020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237168484, "dur":789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237169277, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237169287, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237171119, "dur":853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237171976, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237171985, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237173544, "dur":384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237173930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237173936, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237175963, "dur":500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Analytics.Tracker.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237176468, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237176475, "dur":1854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Analytics.Tracker.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237178381, "dur":792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237179176, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237179209, "dur":1274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237180524, "dur":960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237181488, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237181498, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237183813, "dur":922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237184739, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237184750, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237186227, "dur":627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237186857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237186867, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237188139, "dur":3187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237191331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237191342, "dur":1175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237192549, "dur":1326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237193879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237193886, "dur":1078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237195015, "dur":3024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237198044, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237198053, "dur":1374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237199471, "dur":742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237200217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237200225, "dur":1314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705347237201592, "dur":334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1705347237201931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237202380, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1705347237203348, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1705347237203394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237203400, "dur":2685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1705347237206141, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1705347237206197, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237206206, "dur":2084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1705347237208348, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1705347237208404, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705347237208415, "dur":65176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1705347237273640, "dur":82491, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705347237115539, "dur":399, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705347237115938, "dur":5635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705347237121584, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1705347237121756, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705347237124582, "dur":3064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1705347237127696, "dur":494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1705347237128194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705347237128286, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1705347237130325, "dur":212065, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705347237342394, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705347237342402, "dur":13643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705347237356095, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1705347237356100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237115569, "dur":374, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237115943, "dur":5629, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237121584, "dur":954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1705347237122542, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237124151, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1705347237127239, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1705347237127353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237127501, "dur":1896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1705347237129447, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1705347237129555, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237129563, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1705347237131136, "dur":860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump.exe" }}
+,{ "pid":12345, "tid":7, "ts":1705347237131999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237132005, "dur":1611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump.exe" }}
+,{ "pid":12345, "tid":7, "ts":1705347237133664, "dur":992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237134661, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237134673, "dur":1159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237135878, "dur":1150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237137033, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237137043, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237139361, "dur":714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237140080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237140088, "dur":1465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237141607, "dur":536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237142146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237142155, "dur":1726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237143928, "dur":647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237144579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237144588, "dur":1635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237146274, "dur":809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237147088, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237147097, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237148642, "dur":483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237149130, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237149138, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237150710, "dur":709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237151423, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237151432, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237152789, "dur":549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237153343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237153351, "dur":1945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237155355, "dur":360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237155719, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237155728, "dur":2220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237157991, "dur":587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237158582, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237158590, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237160287, "dur":3263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237163553, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237163560, "dur":1411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237165020, "dur":771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237165795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237165803, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237167664, "dur":1255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237168922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237168929, "dur":1474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237170454, "dur":389, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237170847, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237170872, "dur":1927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237172850, "dur":1224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237174078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237174086, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237175918, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237176279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237176288, "dur":2012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237178352, "dur":35802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237214159, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237214173, "dur":6900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705347237221144, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1705347237221205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237221216, "dur":11256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1705347237232526, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1705347237232583, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237232590, "dur":5351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1705347237238008, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1705347237238067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237238080, "dur":3562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1705347237241711, "dur":355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1705347237242070, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705347237242081, "dur":7156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1705347237249303, "dur":106824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237115610, "dur":345, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237115955, "dur":5622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237121585, "dur":950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1705347237122538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237124623, "dur":2681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1705347237127357, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1705347237127476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237127603, "dur":1631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1705347237129267, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1705347237129413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237129439, "dur":2163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1705347237131652, "dur":1975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237133631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237133690, "dur":1307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237135045, "dur":1103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237136153, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237136194, "dur":2336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237138571, "dur":1541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237140116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237140150, "dur":1565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237141767, "dur":602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237142400, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237142409, "dur":1927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237144378, "dur":632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237145014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237145022, "dur":2005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237147384, "dur":612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237148029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237148039, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237149520, "dur":637, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237150161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237150169, "dur":1857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237152168, "dur":457, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237152628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237152637, "dur":1936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237154680, "dur":331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237155016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237155055, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237157226, "dur":664, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237157895, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237157907, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237160070, "dur":809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237160883, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237160891, "dur":1680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237162627, "dur":615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237163246, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237163256, "dur":1379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237164689, "dur":690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237165383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237165389, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237166965, "dur":3150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237170120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237170129, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237171632, "dur":724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237172361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237172371, "dur":2136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237174555, "dur":488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237175047, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237175056, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237176459, "dur":805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Analytics.StandardEvents.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237177269, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237177277, "dur":1460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/Unity.Analytics.StandardEvents.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237178779, "dur":3326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237182108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237182115, "dur":1909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237184075, "dur":1209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237185288, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237185299, "dur":1193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237186545, "dur":17492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237204042, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237204051, "dur":2111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705347237206221, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":8, "ts":1705347237206284, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237206290, "dur":5334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":8, "ts":1705347237211675, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1705347237211723, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237211735, "dur":1720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1705347237213506, "dur":506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1705347237214017, "dur":29, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237214057, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1705347237215503, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1705347237215760, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237215778, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1705347237217452, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1705347237217706, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237217715, "dur":14189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1705347237232028, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1705347237232089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237232097, "dur":6785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1705347237238928, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1705347237239058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705347237239066, "dur":10633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/JasminJowie/Desktop/n/Spongie Jump/Spongie Jump_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1705347237249750, "dur":106396, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705347237360040, "dur":2278, "ph":"X", "name": "ProfilerWriteOutput" }
+,
